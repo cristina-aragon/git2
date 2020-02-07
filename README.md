@@ -8,3 +8,7 @@ Alguien modifica este fichero. Es de nuestro equipo?? Es un hacker?
 
 ### Segundo subtítulo 
 Contenido del segundo subtítulo
+
+### Parece que todo es legal 
+
+pero estamos modificando los dos a la vez en las mismas líneas
